@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frat1n
+- 👋 Hi, I’m Tangerine Man
 - 👀 I’m interested in Cyber security and software engneering
 - 🌱 I’m currently learning more things about cyber security and software engneering
 - 💞️ I’m looking to collaborate on my projects
